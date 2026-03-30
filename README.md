@@ -1,1 +1,2 @@
-# exercicios-commit
+# Meu Projeto Semântico
+Este projeto é para praticar commits semantica.
